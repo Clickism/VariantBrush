@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "variant-brush",
+	"version": "${version}",
+	"name": "Variant Brush",
+	"description": "Use a brush to change pig, cow and chicken variants.",
+	"authors": [
+		"Clickism"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/Clickism/VariantBrush"
+	},
+	"license": "GPLv3",
+	"icon": "assets/variant-brush/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.clickism.variantbrush.VariantBrush"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.5-",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
