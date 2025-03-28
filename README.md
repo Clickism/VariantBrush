@@ -1,5 +1,5 @@
 ## Variant Brush
-**Variant Brush is a simple utility mod for Fabric that allows players to switch farm animal
+**Variant Brush is a simple utility mod for Fabric & plugin for Paper/Spigot that allows players to switch farm animal
 variants (pig, cow and chickens) using a brush.**
 
 [![discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/zUetzp3Gzk)

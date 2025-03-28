@@ -8,3 +8,7 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
+
+include("fabric", "spigot")
+
+rootProject.name = "VariantBrush"
